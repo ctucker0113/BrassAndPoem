@@ -7,30 +7,32 @@
 
 //implement your loop here
 
-void DisplayMenu()
-{
-    throw new NotImplementedException();
-}
 
-void DisplayAllProducts(List<Product> products, List<ProductType> productTypes)
-{
-    throw new NotImplementedException();
-}
+Console.WriteLine("Welcome to Hogwarts 2024!");
+//void DisplayMenu()
+//{
+//    throw new NotImplementedException();
+//}
 
-void DeleteProduct(List<Product> products, List<ProductType> productTypes)
-{
-    throw new NotImplementedException();
-}
+//void DisplayAllProducts(List<Product> products, List<ProductType> productTypes)
+//{
+//    throw new NotImplementedException();
+//}
 
-void AddProduct(List<Product> products, List<ProductType> productTypes)
-{
-    throw new NotImplementedException();
-}
+//void DeleteProduct(List<Product> products, List<ProductType> productTypes)
+//{
+//    throw new NotImplementedException();
+//}
 
-void UpdateProduct(List<Product> products, List<ProductType> productTypes)
-{
-    throw new NotImplementedException();
-}
+//void AddProduct(List<Product> products, List<ProductType> productTypes)
+//{
+//    throw new NotImplementedException();
+//}
+
+//void UpdateProduct(List<Product> products, List<ProductType> productTypes)
+//{
+//    throw new NotImplementedException();
+//}
 
 // don't move or change this!
 public partial class Program { }
